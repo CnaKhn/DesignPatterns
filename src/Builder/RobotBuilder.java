@@ -5,4 +5,5 @@ public interface RobotBuilder {
     void buildRobotTorso();
     void buildRobotArms();
     void buildRobotLegs();
+    Robot getRobot();
 }
