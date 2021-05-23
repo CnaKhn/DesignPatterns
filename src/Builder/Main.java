@@ -11,5 +11,6 @@ public class Main {
         System.out.println(firstRobot.getTorso());
         System.out.println(firstRobot.getArms());
         System.out.println(firstRobot.getLegs());
+
     }
 }
